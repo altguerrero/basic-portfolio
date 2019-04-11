@@ -1,0 +1,1 @@
+$(function(){$(".portfolio__container").on("click",function(){$("#modal").modal;var o=$(this).find("img").attr("src");$("#img-modal").attr("src",o)}),$("#modal").on("click",function(){$("#modal").modal("hide")})});
