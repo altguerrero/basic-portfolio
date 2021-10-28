@@ -1,2 +1,7 @@
-# Basic-Portfolio
-Un portafolio estático básico
+# Basic portfolio with Bootstrap
+
+:eye: Preview []()
+
+![Portfolio](/assets/img/preview.png)
+
+
